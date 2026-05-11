@@ -64,6 +64,16 @@ Thank you for booking SmartBus!
 
 ## Technologies Used
 - C Programming Language
+  
+## Screenshots
 
+### Main Menu
+![Main Menu](menu.png.png)
+
+### Booking Screen
+![Booking Screen](booking.png.png)
+
+### Result Screen
+![Result Screen](result.png.png)
 ## Author
 Abhignya
